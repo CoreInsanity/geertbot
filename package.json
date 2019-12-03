@@ -1,0 +1,16 @@
+{
+  "name": "geertbot",
+  "version": "0.0.1",
+  "description": "ima judge yer memes",
+  "main": "main.js",
+  "author": "Maxim Van den Eede",
+  "license": "ISC",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "discord.js": "^11.5.1",
+    "winston": "^3.2.1"
+  }
+}
