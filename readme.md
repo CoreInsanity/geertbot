@@ -5,7 +5,10 @@ A Discord bot that judges your mems
 ## Setting things up
 
 Please install Node Modules by using NPM INSTALL
-Run the bot with node main.js
+
+## Serving the bot
+
+run node main.js
 
 ### Setting up the service on a linux machine
 
